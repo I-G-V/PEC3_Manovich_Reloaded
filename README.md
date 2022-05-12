@@ -65,21 +65,20 @@ yo creo que van a ser cada vez más habituales en la vida cotidiana a medida que
 
 ### Bibliografía, webgrafía y recursos
 
-[^1]: *About - github.com* [En línea]. Disponible en: <https://github.com/about>
+[^1]: *About* [En línea]. Disponible en: <https://github.com/about>
 
 [^2]: Minetest developers. 2020. *Minetest on GitHub* [imagen PNG]. Wikimedia Commons. Disponible en: <https://commons.wikimedia.org/wiki/File:Minetest_on_GitHub.png>
 
-[^3]: 
+[^3]: *¿Qué es Git? - Azure DevOps | Microsoft Docs* [en línea]. Disponible en: <https://docs.microsoft.com/es-es/devops/develop/git/what-is-git>
 
-[^4]: APELLIDO/S DEL AUTOR/A, Nombre del autor/a. Año de creación. Título del documento gráfico en cursiva [tipo de material]. Nombre del museo o de la galería, Lugar [consulta: ]. Disponible en: URL
+[^4]: Qorg11. 2018. *Gitweb screenshot* [imagen PNG]. Wikimedia Commons. Disponible en: <https://commons.wikimedia.org/wiki/File:Gitweb_screenshot.png>
 
+[^5]: MANOVICH, Lev (2013). El software toma el mando. Barcelona: Editorial UOC.
 
-[^5]:
+[^6]: MANOVICH, Lev (2013). El software toma el mando. Barcelona: Editorial UOC.
 
-[^6]:
+[^7]: ADELL, Ferran. Remediación, multimedia e hibridación de los medios [en línea]. *Blog de la asignatura Fundamentos y evolución de la multimedia del Grado de Multimedia de la Universitat Oberta de Catalunya*, 16/04/2014. Disponible en: <http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/>
 
-[^7]:
+[^8]: MANOVICH, Lev (2013). El software toma el mando. Barcelona: Editorial UOC.
 
-[^8]:
-
-[^9]:
+[^9]: GitHub. *What is GitHub?* [vídeo en línea]. 2017. Disponible en: <https://youtu.be/w3jLJU7DT5E>
