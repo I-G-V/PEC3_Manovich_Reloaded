@@ -45,7 +45,13 @@ forma de crear, interaccionar, reutilizar y compartir código, que difiere mucho
 forma anterior (aunque también actual) de escritura individual de código que realizan los  
 programadores con sus editores de texto o entornos de desarrollo integrado.
 
+En conclusión, pienso que estas nuevas formas de desarrollar código y todos los medios  
+y herramientas que interaccionan y conviven con ellas en esta 
+> "ecología compartida" (Manovich, 2013)
 
+pueden ayudar a personas como yo a adentrarse en el interesante mundo de la programación y  
+facilitar el siempre complicado trabajo en equipo, sobre todo en entornos online, los cuales  
+yo creo que van a ser cada vez más habituales a medida que pasen los años.
 
 
 
