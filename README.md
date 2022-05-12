@@ -15,16 +15,16 @@ utilizar el software disponible, consiguiendo con todo esto convertirlo en un
 lugar donde 
 > "el mundo construye software". (*About* - GitHub, traducción propia)[^1]
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Minetest_on_GitHub.png" alt="Imagen de la interfaz de la página de una organización en GitHub" width="450px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Minetest_on_GitHub.png" alt="Imagen de la interfaz de la página de una organización en GitHub" width="450px">[^2]
 
 Estudiando en la asignatura HTML y CSS he utilizado sus repositorios para descargar  
 código, pero siempre me preguntaba: ¿qué es Git? Descubrí que es un sistema que  
 te permite controlar las diferentes versiones de tu código utilizando los ya  
 mencionados repositorios y tenerlas actualizadas conjuntamente de la siguiente manera: 
 > "Los desarrolladores confirman su trabajo localmente y, a continuación,  
-sincronizan su copia del repositorio con la copia en el servidor." (Mike Jacobs, 2022)[^2]
+sincronizan su copia del repositorio con la copia en el servidor." (Mike Jacobs, 2022)[^3]
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Gitweb_screenshot.png" alt="Imagen de un proyecto en Gitweb" width="450px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Gitweb_screenshot.png" alt="Imagen de un proyecto en Gitweb" width="450px">[^4]
 
 Yo creo que, aunque todavía estoy aprendiendo a utilizarla, es una herramienta  
 muy útil a la hora de trabajar en equipo y pienso que se podría asemejar a la   
@@ -38,12 +38,12 @@ He pensado que la plataforma GitHub podría considerarse una hibridación según
 enfoque de Lev Manovich. Esto es debido a que facilita una nueva manera de interaccionar  
 con el código y su desarrollo de forma más eficiente utilizando la herramienta Git que   
 te facilita, lo que encaja muy bien con la visión de Manovich de una hibridación centrada en
-> "nuevas maneras de navegar e interaccionar con formatos de medios ya existentes..." (Manovich, 2013)[^3]   
+> "nuevas maneras de navegar e interaccionar con formatos de medios ya existentes..." (Manovich, 2013)[^5]   
 en las que "...la hibridación se produce en la interfaz de usuario y las herramientas que   
-facilita el proyecto". (Manovich, 2013)[^4]
+facilita el proyecto". (Manovich, 2013)[^6]
 
 Esta hibridación se puede considerar 
-> "una experiencia nueva y coherente" (Adell, 2014)[^5] 
+> "una experiencia nueva y coherente" (Adell, 2014)[^7] 
 
 que se ha producido al utilizar conjuntamente el software y las interfaces que  
 proporciona este entorno de desarrollo colaborativo. En este caso, lo veo como una nueva  
@@ -53,7 +53,7 @@ programadores con sus editores de texto o entornos de desarrollo integrado.
 
 En conclusión, pienso que estas nuevas formas de desarrollar código y todos los medios  
 y herramientas que interaccionan y conviven con ellas en esta 
-> "ecología compartida" (Manovich, 2013)[^6]
+> "ecología compartida" (Manovich, 2013)[^8]
 
 pueden ayudar a personas como yo a adentrarse en el interesante mundo de la programación y  
 facilitar el siempre complicado trabajo en equipo, sobre todo en entornos online, los cuales  
@@ -61,12 +61,25 @@ yo creo que van a ser cada vez más habituales en la vida cotidiana a medida que
 
 **Haz click en el vídeo que aparece debajo, para aprender más sobre cómo funciona GitHub:**
 
-[![Vídeo sobre qué es GitHub](https://img.youtube.com/vi/w3jLJU7DT5E/0.jpg)](https://www.youtube.com/watch?v=w3jLJU7DT5E)[^7]
+[![Vídeo sobre qué es GitHub](https://img.youtube.com/vi/w3jLJU7DT5E/0.jpg)](https://www.youtube.com/watch?v=w3jLJU7DT5E)[^9]
 
+### Bibliografía, webgrafía y recursos
 
-[^1]:
-[^2]: 
+[^1]: *About - github.com* [En línea]. Disponible en: <https://github.com/about>
+
+[^2]: Minetest developers. 2020. *Minetest on GitHub* [imagen PNG]. Wikimedia Commons. Disponible en: <https://commons.wikimedia.org/wiki/File:Minetest_on_GitHub.png>
+
 [^3]: 
-[^4]:
+
+[^4]: APELLIDO/S DEL AUTOR/A, Nombre del autor/a. Año de creación. Título del documento gráfico en cursiva [tipo de material]. Nombre del museo o de la galería, Lugar [consulta: ]. Disponible en: URL
+
+
 [^5]:
+
 [^6]:
+
+[^7]:
+
+[^8]:
+
+[^9]:
