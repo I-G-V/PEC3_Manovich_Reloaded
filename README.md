@@ -23,7 +23,10 @@ sincronizan su copia del repositorio con la copia en el servidor." (Mike Jacobs,
 Yo creo que, aunque todavía estoy aprendiendo a utilizarla, es una herramienta  
 muy útil a la hora de trabajar en equipo y pienso que se podría asemejar a la   
 creación colaborativa que se realiza en documentos compartidos como, por ejemplo,   
-la que he realizado y realizo gracias a los Google Docs.
+la que he realizado y realizo gracias a los Google Docs. No tengo ninguna duda, pese a  
+mi escasa esperiencia como programador, que ha sido fundamental para mejorar y agilizar  
+los métodos de trabajo colaborativos que poseen cientos de miles de programadores en   
+todo el mundo.
 
 He pensado que la plataforma GitHub podría considerarse una hibridación según el   
 enfoque de Lev Manovich. Esto es debido a que facilita una nueva manera de interaccionar  
