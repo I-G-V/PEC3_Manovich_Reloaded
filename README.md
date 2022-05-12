@@ -1,17 +1,17 @@
-# RETO ACTIVIDAD 3. Visionando el futuro con las gafas de Manovich: redescubriendo la hibridación
+# RETO ACTIVIDAD 3. Visionando el futuro con las gafas de Manovich: redescubriendo la hibridación.
 
 Repositorio con información sobre dos casos de hibridación moderna. 
 
 Autor: Íñigo García de Vega.
 
-## GITHUB - La hibridación de la tecnología de los repositorios virtuales con el desarrollo de código
+## GITHUB - La hibridación de la tecnología de los repositorios virtuales colaborativos con el desarrollo de código
 
-**GitHub** es una muy grande e importante plataforma de desarrollo de software,   
+**GitHub** es una importante y gran plataforma de desarrollo de software,   
 cuyo principal objetivo es proporcionar a los programadores y desarrolladores  
 la posibilidad de producir código de manera colaborativa y almacenarlo en sus  
 repositorios virtuales gracias a **Git**, un software de control de versiones.  
 Su sistema se basa en código abierto y libre por lo que es fácil modificar y  
-utilizar el software disponible, consiguiendo con todo esto convertirlo en un  
+utilizar el software disponible, y así conseguir con todo esto, convertirlo en un  
 lugar donde 
 > "el mundo construye software". (*About* - GitHub, traducción propia)[^1]
 
@@ -36,8 +36,8 @@ todo el mundo.
 
 He pensado que la plataforma GitHub podría considerarse una hibridación según el   
 enfoque de Lev Manovich. Esto es debido a que facilita una nueva manera de interaccionar  
-con el código y su desarrollo de forma más eficiente utilizando la herramienta Git que   
-te facilita, lo que encaja muy bien con la visión de Manovich de una hibridación centrada en
+con el código y su desarrollo de forma más eficiente utilizando la herramienta Git incorporada,  
+lo que encaja muy bien con la visión de Manovich de una hibridación centrada en
 > "nuevas maneras de navegar e interaccionar con formatos de medios ya existentes..." (Manovich, 2013)[^5]   
 en las que "...la hibridación se produce en la interfaz de usuario y las herramientas que   
 facilita el proyecto". (Manovich, 2013)[^6]
@@ -47,7 +47,7 @@ Esta hibridación se puede considerar
 
 que se ha producido al utilizar conjuntamente el software y las interfaces que  
 proporciona este entorno de desarrollo colaborativo. En este caso, lo veo como una nueva  
-forma de crear, interaccionar, reutilizar y compartir código, que difiere mucho de la 
+forma de crear, interaccionar, reutilizar y compartir código, que difiere mucho de la   
 forma anterior (aunque también actual) de escritura individual de código que realizan los  
 programadores con sus editores de texto o entornos de desarrollo integrado.
 
@@ -59,13 +59,15 @@ pueden ayudar a personas como yo a adentrarse en el interesante mundo de la prog
 facilitar el siempre complicado trabajo en equipo, sobre todo en entornos online, los cuales  
 yo creo que van a ser cada vez más habituales en la vida cotidiana a medida que pasen los años.
 
-**Haz click en el vídeo que aparece debajo, para aprender más sobre cómo funciona GitHub:**
+**Haz click en el vídeo que aparece debajo para aprender más sobre cómo funciona GitHub:**
 
 [![Vídeo sobre qué es GitHub](https://img.youtube.com/vi/w3jLJU7DT5E/0.jpg)](https://www.youtube.com/watch?v=w3jLJU7DT5E)[^9]
 
+_ _ _
+
 ### Licencia
 
-Material Creative Commons desarrollado bajo licencia **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**
+Material Creative Commons desarrollado bajo licencia **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**.
 
 - Información resumida de la licencia: <https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es>
 
