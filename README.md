@@ -23,7 +23,7 @@ sincronizan su copia del repositorio con la copia en el servidor." (Mike Jacobs,
 Yo creo que, aunque todavía estoy aprendiendo a utilizarla, es una herramienta  
 muy útil a la hora de trabajar en equipo y pienso que se podría asemejar a la   
 creación colaborativa que se realiza en documentos compartidos como, por ejemplo,   
-la que he realizado anteriormente gracias a los Google Docs.
+la que he realizado gracias a los Google Docs.
 
 
 
