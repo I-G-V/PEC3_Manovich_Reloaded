@@ -36,8 +36,11 @@ facilita el proyecto". (Manovich, 2013)[^4]
 Esta hibridación se puede considerar 
 > "una experiencia nueva y coherente" (Adell, 2014)[^5] 
 
-que se ha producido al utilizar conjuntamente el software y las interfaces que proporciona  
-este entorno de desarrollo colaborativo. 
+que se ha producido al utilizar conjuntamente el software y las interfaces que  
+proporciona este entorno de desarrollo colaborativo. En este caso, lo veo como una nueva  
+forma de crear, interaccionar, reutilizar y compartir código, que difiere mucho de la 
+forma anterior (aunque también actual) de escritura individual de código que realizan los  
+programadores con sus editores de texto o entornos de desarrollo integrado.
 
 
 
