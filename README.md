@@ -63,6 +63,14 @@ yo creo que van a ser cada vez más habituales en la vida cotidiana a medida que
 
 [![Vídeo sobre qué es GitHub](https://img.youtube.com/vi/w3jLJU7DT5E/0.jpg)](https://www.youtube.com/watch?v=w3jLJU7DT5E)[^9]
 
+### Licencia
+
+Material Creative Commons desarrollado bajo licencia **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**
+
+- Información resumida de la licencia: <https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es>
+
+- Código legal completo de la licencia: <https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode>
+
 ### Bibliografía, webgrafía y recursos
 
 [^1]: *About* [En línea]. Disponible en: <https://github.com/about>
@@ -82,3 +90,5 @@ yo creo que van a ser cada vez más habituales en la vida cotidiana a medida que
 [^8]: MANOVICH, Lev (2013). El software toma el mando. Barcelona: Editorial UOC.
 
 [^9]: GitHub. *What is GitHub?* [vídeo en línea]. 2017. Disponible en: <https://youtu.be/w3jLJU7DT5E>
+
+
