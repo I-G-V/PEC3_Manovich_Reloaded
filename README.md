@@ -33,8 +33,11 @@ te facilita, lo que encaja muy bien con la visión de Manovich de una hibridaci�
 en las que "...la hibridación se produce en la interfaz de usuario y las herramientas que   
 facilita el proyecto". (Manovich, 2013)[^4]
 
-Esto se puede considerar "una experiencia nueva y coherente" al utilizar conjuntamente   
-el software y las interfaces que proporciona
+Esta hibridación se puede considerar 
+> "una experiencia nueva y coherente" (Adell, 2014)[^5] 
+
+que se ha producido al utilizar conjuntamente el software y las interfaces que proporciona  
+este entorno de desarrollo colaborativo. 
 
 
 
