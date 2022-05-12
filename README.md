@@ -59,7 +59,10 @@ pueden ayudar a personas como yo a adentrarse en el interesante mundo de la prog
 facilitar el siempre complicado trabajo en equipo, sobre todo en entornos online, los cuales  
 yo creo que van a ser cada vez más habituales en la vida cotidiana a medida que pasen los años.
 
-[![Vídeo sobre qué es GitHub](https://img.youtube.com/vi/w3jLJU7DT5E/0.jpg)](https://www.youtube.com/watch?v=w3jLJU7DT5E)
+**Haz click en el vídeo que aparece debajo, para aprender más sobre cómo funciona GitHub:**
+
+[![Vídeo sobre qué es GitHub](https://img.youtube.com/vi/w3jLJU7DT5E/0.jpg)](https://www.youtube.com/watch?v=w3jLJU7DT5E)[^7]
+
 
 [^1]:
 [^2]: 
