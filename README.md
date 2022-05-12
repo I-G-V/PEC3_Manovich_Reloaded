@@ -25,7 +25,16 @@ muy útil a la hora de trabajar en equipo y pienso que se podría asemejar a la
 creación colaborativa que se realiza en documentos compartidos como, por ejemplo,   
 la que he realizado y realizo gracias a los Google Docs.
 
+He pensado que la plataforma GitHub podría considerarse una hibridación según el   
+enfoque de Lev Manovich. Esto es debido a que facilita una nueva manera de interaccionar  
+con el código y su desarrollo de forma más eficiente utilizando la herramienta Git que   
+te facilita, lo que encaja muy bien con la visión de Manovich de una hibridación centrada en
+> "nuevas maneras de navegar e interaccionar con formatos de medios ya existentes..." (Manovich, 2013)[^3]   
+en las que "...la hibridación se produce en la interfaz de usuario y las herramientas que   
+facilita el proyecto". (Manovich, 2013)[^4]
 
+Esto se puede considerar "una experiencia nueva y coherente" al utilizar conjuntamente   
+el software y las interfaces que proporciona
 
 
 
@@ -33,3 +42,4 @@ la que he realizado y realizo gracias a los Google Docs.
 
 [^1]:
 [^2]: 
+[^3], [^4]:
