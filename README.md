@@ -69,8 +69,25 @@ yo creo que van a ser cada vez más habituales en la vida cotidiana a medida que
 ha sido y es jugado por cientos de millones de personas, entre las que me incluyo. Su principal  
 rasgo característico es que es un videojuego de mundo abierto formado por bloques en forma de  
 cubo y con objetos formados por píxeles; y su principal mecánica es la de recolectar estos bloques  
-para conseguir materiales y con ellos "craftear" o construir objetos que te permiten sobrevivir mejor   
-en ese mundo.
+para conseguir materiales y con ellos "craftear" o construir objetos que te permiten sobrevivir mejor.  
+Cuando estoy jugando a videojuegos no me paro a pensar, como supongo que le pasará a la mayoría, en la  
+infinidad de líneas de código que hacen que funcionen, porque al final, como dice Lev Manovich en su  
+libro El software toma el mando, estamos también usando software.[^9]
+
+Este mundo abierto que parece infinito, aunque no lo es, es un espacio navegable en 3D e interactivo que  
+encaja en el grupo de los
+> "nuevos medios que no son simulaciones de medios físicos anteriores" (Manovich, 2013)[^10],  
+
+por el que puedes moverte con tu personaje e interactuar con él utilizando dispositivos como un teclado y ratón,  
+un mando, controles para realidad virtual, etc.
+
+Es en la generación de este mundo donde yo creo que surge una hibridación de los medios y técnicas que aparecen en  
+él. Lo primero de todo es que se trata de, según explica Manovich, 
+> "un mundo procedimental en masa" (Manovich, 2013)[^11]
+
+
+
+
 
 _ _ _
 
