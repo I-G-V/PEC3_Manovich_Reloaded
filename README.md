@@ -63,6 +63,15 @@ yo creo que van a ser cada vez más habituales en la vida cotidiana a medida que
 
 [![Vídeo sobre qué es GitHub](https://img.youtube.com/vi/w3jLJU7DT5E/0.jpg)](https://www.youtube.com/watch?v=w3jLJU7DT5E)[^9]
 
+## MINECRAFT - La hibridación de la animación con el diseño digital de mundos en 3D generados procedimentalmente
+
+**Minecraft** es uno de los videojuegos más populares y conocidos de la historia, el cual  
+ha sido y es jugado por cientos de millones de personas, entre las que me incluyo. Su principal  
+rasgo característico es que es un videojuego de mundo abierto formado por bloques en forma de  
+cubo y con objetos formados por píxeles; y su principal mecánica es la de recolectar estos bloques  
+para conseguir materiales y con ellos "craftear" o construir objetos que te permiten sobrevivir mejor   
+en ese mundo.
+
 _ _ _
 
 ### Licencia
