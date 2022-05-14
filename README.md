@@ -72,18 +72,26 @@ cubo y con objetos formados por píxeles; y su principal mecánica es la de reco
 para conseguir materiales y con ellos "craftear" o construir objetos que te permiten sobrevivir mejor.  
 Cuando estoy jugando a videojuegos no me paro a pensar, como supongo que le pasará a la mayoría, en la  
 infinidad de líneas de código que hacen que funcionen, porque al final, como dice Lev Manovich en su  
-libro El software toma el mando, estamos también usando software.[^9]
+libro El software toma el mando, estamos también usando software.[^10]
 
 Este mundo abierto que parece infinito, aunque no lo es, es un espacio navegable en 3D e interactivo que  
 encaja en el grupo de los
-> "nuevos medios que no son simulaciones de medios físicos anteriores" (Manovich, 2013)[^10],  
+> "nuevos medios que no son simulaciones de medios físicos anteriores" (Manovich, 2013)[^11],  
 
-por el que puedes moverte con tu personaje e interactuar con él utilizando dispositivos como un teclado y ratón,  
-un mando, controles para realidad virtual, etc.
+por el que puedes moverte con tu personaje e interactuar con él utilizando dispositivos como un teclado  
+y ratón, un mando, controles para realidad virtual, etc.
 
-Es en la generación de este mundo donde yo creo que surge una hibridación de los medios y técnicas que aparecen en  
-él. Lo primero de todo es que se trata de, según explica Manovich, 
-> "un mundo procedimental en masa" (Manovich, 2013)[^11]
+Es en la generación de este mundo donde yo creo que surge una hibridación de los medios y técnicas 
+que aparecen en él. Lo primero de todo es que se trata, según explica Manovich, de
+> "un mundo procedimental en masa" (Manovich, 2013)[^12]  
+
+generado por software con el mismo nombre, que utiliza algoritmos para crearlo de forma aleatoria. Esto   
+produce una combinación de estas técnicas de software con las técnicas de generación y diseño de este   
+mundo digital; y no solo eso, también genera nuevas experiencias en cada partida que juegas, por poner  
+un ejemplo, todos los nuevos biomas que se producen aleatoriamente cuando me muevo por este mundo hacen
+que mi experiencia de juego sea más variada y entretenida.
+
+
 
 
 
