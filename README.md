@@ -90,7 +90,7 @@ haciéndolo muchísimo más divertido.
 
 Es en la generación de este mundo donde yo creo que surge una hibridación de los medios y técnicas 
 que aparecen en él. Lo primero de todo es que se trata, según explica Manovich, de
-> "un mundo procedimental en masa" (Manovich, 2013)[^12]  
+> "un mundo procedimental en masa" (Manovich, 2013)[^14]  
 
 generado por software con el mismo nombre, que utiliza algoritmos para crearlo de forma aleatoria. Esto   
 produce una combinación de estas técnicas de software con las técnicas de generación y diseño de este   
@@ -103,18 +103,17 @@ es fundamental para que funcione como un videojuego. Este algo es la animación 
 personajes en 3D que aparecen, algo fundamental para que cualquier videojuego sea igual y genere lo mismo  
 a los jugadores. La hibridación de la animación y sus técnicas junto con las de este mundo virtual  
 produce una experiencia conjunta que, sin ninguna duda, es 
-> "diferente a la experimentación de los elementos por separado" (Adell, 2014)[^13]
+> "diferente a la experimentación de los elementos por separado" (Adell, 2014)[^15]
 
-<img src="https://live.staticflickr.com/1915/43934319005_4bf081a058_h.jpg" alt="Imagen del bioma de la jungla en Minecraft." width="600">[^13]
+<img src="https://live.staticflickr.com/1915/43934319005_4bf081a058_h.jpg" alt="Imagen del bioma de la jungla en Minecraft." width="600">[^16]
 
 Como conclusión, creo que la esencia de Minecraft y muchos otros juegos es la capacidad de generar a los  
 jugadores estas experiencias, sensaciones y momentos de diversión, los cuales no serían posibles sin la  
 combinación de todos sus elementos, medios y técnicas que conviven en armonía.
 
+**Si queréis saber más sobre las diferentes capas que forman el mundo de Minecraft, podéis hacer click en el siguiente vídeo:**
 
-
-
-
+[![Vídeo sobre la generación de las capas del mundo de Minecraft](https://img.youtube.com/vi/FE5S2NeD7uU/0.jpg)](https://www.youtube.com/watch?v=FE5S2NeD7uU)[^17]
 
 _ _ _
 
@@ -127,6 +126,8 @@ Material Creative Commons desarrollado bajo licencia **Creative Commons Attribut
 - Código legal completo de la licencia: <https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode>
 
 ### Bibliografía, webgrafía y recursos
+
+- **GITHUB - La hibridación de la tecnología de los repositorios virtuales colaborativos con el desarrollo de código**
 
 [^1]: *About* [En línea]. Disponible en: <https://github.com/about>
 
@@ -146,4 +147,21 @@ Material Creative Commons desarrollado bajo licencia **Creative Commons Attribut
 
 [^9]: GitHub. *What is GitHub?* [vídeo en línea]. 2017. Disponible en: <https://youtu.be/w3jLJU7DT5E>
 
+- **MINECRAFT - La hibridación en la generación, el diseño y la animación de mundos en 3D generados procedimentalmente**
+
+[^10]: Original: Mojang Studios; Vector: FugerCh100. 2022. *Gitweb screenshot* [imagen SVG]. Wikimedia Commons. Disponible en: <https://commons.wikimedia.org/wiki/File:Gitweb_screenshot.png>
+
+[^11]: MANOVICH, Lev (2013). El software toma el mando. Barcelona: Editorial UOC.
+
+[^12]: MANOVICH, Lev (2013). El software toma el mando. Barcelona: Editorial UOC.
+
+[^13]: Qorg11. 2018. *Gitweb screenshot* [imagen PNG]. Wikimedia Commons. Disponible en: <https://commons.wikimedia.org/wiki/File:Gitweb_screenshot.png>
+
+[^14]: MANOVICH, Lev (2013). El software toma el mando. Barcelona: Editorial UOC.
+
+[^15]: ADELL, Ferran. Remediación, multimedia e hibridación de los medios [en línea]. *Blog de la asignatura Fundamentos y evolución de la multimedia del Grado de Multimedia de la Universitat Oberta de Catalunya*, 16/04/2014. Disponible en: <http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/>
+
+[^16]: Qorg11. 2018. *Gitweb screenshot* [imagen PNG]. Wikimedia Commons. Disponible en: <https://commons.wikimedia.org/wiki/File:Gitweb_screenshot.png>
+
+[^17]: AntVenom. *How Do Minecraft Worlds Generate?!* [vídeo en línea]. 2017. Disponible en: <https://youtu.be/FE5S2NeD7uU>
 
