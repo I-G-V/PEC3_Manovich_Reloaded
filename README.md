@@ -95,7 +95,7 @@ que aparecen en él. Lo primero de todo es que se trata, según explica Manovich
 generado por software con el mismo nombre, que utiliza algoritmos para crearlo de forma aleatoria. Esto   
 produce una combinación de estas técnicas de software con las técnicas de generación y diseño de este   
 mundo digital; y no solo eso, también genera experiencias nuevas en cada partida que juegas, por poner  
-un ejemplo, con todos los nuevos biomas que se producen aleatoriamente cuando me muevo él con mi 
+un ejemplo, con todos los nuevos biomas que se producen aleatoriamente cuando me muevo  en él con mi   
 personaje hacen que mi experiencia de juego sea más variada y entretenida.
 
 Pero no es lo único que produce una hibridación, por mucho terreno que haya por explorar, hay algo que pienso que  
