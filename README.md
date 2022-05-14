@@ -101,6 +101,9 @@ a los jugadores. La hibridación de la animación y sus técnicas junto con las 
 produce una experiencia conjunta que, sin ninguna duda, es 
 > "diferente a la experimentación de los elementos por separado" (Adell, 2014)[^13]
 
+Como conclusión, creo que la esencia de Minecraft y muchos otros juegos es la capacidad de generar a los  
+jugadores estas experiencias, sensaciones y momentos de diversión, los cuales no serían posibles sin la  
+combinación de todos sus elementos, medios y técnicas que conviven en armonía.
 
 
 
