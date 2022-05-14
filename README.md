@@ -73,8 +73,8 @@ rasgo característico es que es un videojuego de mundo abierto formado por bloqu
 cubo y con objetos formados por píxeles; y su principal mecánica es la de recolectar estos bloques  
 para conseguir materiales y con ellos "craftear" o construir objetos que te permiten sobrevivir mejor.  
 Cuando estoy jugando a videojuegos no me paro a pensar, como supongo que le pasará a la mayoría, en la  
-infinidad de líneas de código que hacen que funcionen, porque al final, como dice Lev Manovich en su  
-libro El software toma el mando, estamos también usando software.[^11]
+infinidad de líneas de código que hacen que funcionen, porque al fin y al cabo, como dice Lev Manovich en su  
+libro El software toma el mando, haciendo esto también estamos usando software.[^11]
 
 Este mundo abierto que parece infinito, aunque no lo es, es un espacio navegable en 3D e interactivo que  
 encaja en el grupo de los
@@ -82,32 +82,32 @@ encaja en el grupo de los
 
 por el que puedes moverte con tu personaje e interactuar con él utilizando dispositivos como un teclado  
 y ratón, un mando, controles para realidad virtual, etc. Lo que más me gusta de este mundo es que, al ser  
-un juego multijugador, puedes disfrutar y compartir esa experiencia online con otros jugadores y  
+un juego multijugador, puedes disfrutar y compartir esa experiencia *online* con otros jugadores y  
 sobre todo con tus amigos, explorándolo o creando tus propios mundos de la forma que más te guste  
-haciéndolo muchísimo más divertido.
+y haciéndolo muchísimo más divertido.
 
 <img src="https://live.staticflickr.com/4107/5138837696_80eb3a939c_k.jpg" alt="Imagen del mundo de Minecraft generándose." width="700">[^13]
 
-Es en la generación de este mundo donde yo creo que surge una hibridación de los medios y técnicas 
+Es en la generación de este mundo donde yo creo que surge una hibridación de los medios y técnicas  
 que aparecen en él. Lo primero de todo es que se trata, según explica Manovich, de
 > "un mundo procedimental en masa" (Manovich, 2013)[^14]  
 
 generado por software con el mismo nombre, que utiliza algoritmos para crearlo de forma aleatoria. Esto   
 produce una combinación de estas técnicas de software con las técnicas de generación y diseño de este   
-mundo digital; y no solo eso, también genera nuevas experiencias en cada partida que juegas, por poner  
-un ejemplo, todos los nuevos biomas que se producen aleatoriamente cuando me muevo por este mundo hacen
-que mi experiencia de juego sea más variada y entretenida.
+mundo digital; y no solo eso, también genera experiencias nuevas en cada partida que juegas, por poner  
+un ejemplo, con todos los nuevos biomas que se producen aleatoriamente cuando me muevo él con mi 
+personaje hacen que mi experiencia de juego sea más variada y entretenida.
 
-Pero no solo esto produce una hibridación, por mucho terreno que haya por explorar hay algo que pienso que  
+Pero no es lo único que produce una hibridación, por mucho terreno que haya por explorar, hay algo que pienso que  
 es fundamental para que funcione como un videojuego. Este algo es la animación de todos los objetos y  
-personajes en 3D que aparecen, algo fundamental para que cualquier videojuego sea igual y genere lo mismo  
+personajes en 3D que aparecen, algo fundamental para que cualquier videojuego sea lo que es y genere lo mismo  
 a los jugadores. La hibridación de la animación y sus técnicas junto con las de este mundo virtual  
 produce una experiencia conjunta que, sin ninguna duda, es 
 > "diferente a la experimentación de los elementos por separado" (Adell, 2014)[^15]
 
 <img src="https://live.staticflickr.com/1915/43934319005_4bf081a058_h.jpg" alt="Imagen del bioma de la jungla en Minecraft." width="600">[^16]
 
-Como conclusión, creo que la esencia de Minecraft y muchos otros juegos es la capacidad de generar a los  
+Como conclusión, creo que la esencia de Minecraft y de muchos otros juegos es la capacidad de generar a los  
 jugadores estas experiencias, sensaciones y momentos de diversión, los cuales no serían posibles sin la  
 combinación de todos sus elementos, medios y técnicas que conviven en armonía.
 
@@ -127,8 +127,6 @@ Material Creative Commons desarrollado bajo licencia **Creative Commons Attribut
 
 ### Bibliografía, webgrafía y recursos
 
-- **GITHUB - La hibridación de la tecnología de los repositorios virtuales colaborativos con el desarrollo de código**
-
 [^1]: *About* [En línea]. Disponible en: <https://github.com/about>
 
 [^2]: Minetest developers. 2020. *Minetest on GitHub* [imagen PNG]. Wikimedia Commons. Disponible en: <https://commons.wikimedia.org/wiki/File:Minetest_on_GitHub.png>
@@ -146,8 +144,6 @@ Material Creative Commons desarrollado bajo licencia **Creative Commons Attribut
 [^8]: MANOVICH, Lev (2013). El software toma el mando. Barcelona: Editorial UOC.
 
 [^9]: GitHub. *What is GitHub?* [vídeo en línea]. 2017. Disponible en: <https://youtu.be/w3jLJU7DT5E>
-
-- **MINECRAFT - La hibridación en la generación, el diseño y la animación de mundos en 3D generados procedimentalmente**
 
 [^10]: Original: Mojang Studios; Vector: FugerCh100. 2022. *Minecraft logo* [imagen SVG]. Wikimedia Commons. Disponible en: <https://commons.wikimedia.org/wiki/File:Minecraft_logo.svg>
 
