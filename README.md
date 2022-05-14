@@ -63,7 +63,7 @@ yo creo que van a ser cada vez más habituales en la vida cotidiana a medida que
 
 [![Vídeo sobre qué es GitHub](https://img.youtube.com/vi/w3jLJU7DT5E/0.jpg)](https://www.youtube.com/watch?v=w3jLJU7DT5E)[^9]
 
-## MINECRAFT - La hibridación de la animación con el diseño digital de mundos en 3D generados procedimentalmente
+## MINECRAFT - La hibridación en la generación, el diseño y la animación de mundos en 3D generados procedimentalmente
 
 **Minecraft** es uno de los videojuegos más populares y conocidos de la historia, el cual  
 ha sido y es jugado por cientos de millones de personas, entre las que me incluyo. Su principal  
@@ -79,7 +79,10 @@ encaja en el grupo de los
 > "nuevos medios que no son simulaciones de medios físicos anteriores" (Manovich, 2013)[^11],  
 
 por el que puedes moverte con tu personaje e interactuar con él utilizando dispositivos como un teclado  
-y ratón, un mando, controles para realidad virtual, etc.
+y ratón, un mando, controles para realidad virtual, etc. Lo que más me gusta de este mundo es que, al ser  
+un juego multijugador, puedes disfrutar y compartir esa experiencia online con otros jugadores y  
+sobre todo con tus amigos, explorándolo o creando tus propios mundos de la forma que más te guste haciéndolo  
+muchísimo más divertido.
 
 Es en la generación de este mundo donde yo creo que surge una hibridación de los medios y técnicas 
 que aparecen en él. Lo primero de todo es que se trata, según explica Manovich, de
@@ -90,6 +93,13 @@ produce una combinación de estas técnicas de software con las técnicas de gen
 mundo digital; y no solo eso, también genera nuevas experiencias en cada partida que juegas, por poner  
 un ejemplo, todos los nuevos biomas que se producen aleatoriamente cuando me muevo por este mundo hacen
 que mi experiencia de juego sea más variada y entretenida.
+
+Pero no solo esto produce una hibridación, por mucho terreno que haya por explorar hay algo que pienso que  
+es fundamental para que funcione como un videojuego. Este algo es la animación de todos los objetos y  
+personajes en 3D que aparecen, algo fundamental para que cualquier videojuego sea igual y genere lo mismo  
+a los jugadores. La hibridación de la animación y sus técnicas junto con las de este mundo virtual  
+produce una experiencia conjunta que, sin ninguna duda, es 
+> "diferente a la experimentación de los elementos por separado" (Adell, 2014)[^13]
 
 
 
