@@ -65,6 +65,8 @@ yo creo que van a ser cada vez más habituales en la vida cotidiana a medida que
 
 ## MINECRAFT - La hibridación en la generación, el diseño y la animación de mundos en 3D generados procedimentalmente
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Minecraft_logo.svg" alt="Imagen del logo de Minecraft" width="400">[^10]
+
 **Minecraft** es uno de los videojuegos más populares y conocidos de la historia, el cual  
 ha sido y es jugado por cientos de millones de personas, entre las que me incluyo. Su principal  
 rasgo característico es que es un videojuego de mundo abierto formado por bloques en forma de  
@@ -72,17 +74,19 @@ cubo y con objetos formados por píxeles; y su principal mecánica es la de reco
 para conseguir materiales y con ellos "craftear" o construir objetos que te permiten sobrevivir mejor.  
 Cuando estoy jugando a videojuegos no me paro a pensar, como supongo que le pasará a la mayoría, en la  
 infinidad de líneas de código que hacen que funcionen, porque al final, como dice Lev Manovich en su  
-libro El software toma el mando, estamos también usando software.[^10]
+libro El software toma el mando, estamos también usando software.[^11]
 
 Este mundo abierto que parece infinito, aunque no lo es, es un espacio navegable en 3D e interactivo que  
 encaja en el grupo de los
-> "nuevos medios que no son simulaciones de medios físicos anteriores" (Manovich, 2013)[^11],  
+> "nuevos medios que no son simulaciones de medios físicos anteriores" (Manovich, 2013)[^12],  
 
 por el que puedes moverte con tu personaje e interactuar con él utilizando dispositivos como un teclado  
 y ratón, un mando, controles para realidad virtual, etc. Lo que más me gusta de este mundo es que, al ser  
 un juego multijugador, puedes disfrutar y compartir esa experiencia online con otros jugadores y  
-sobre todo con tus amigos, explorándolo o creando tus propios mundos de la forma que más te guste haciéndolo  
-muchísimo más divertido.
+sobre todo con tus amigos, explorándolo o creando tus propios mundos de la forma que más te guste  
+haciéndolo muchísimo más divertido.
+
+<img src="https://live.staticflickr.com/4107/5138837696_80eb3a939c_k.jpg" alt="Imagen del mundo de Minecraft generándose." width="700">[^13]
 
 Es en la generación de este mundo donde yo creo que surge una hibridación de los medios y técnicas 
 que aparecen en él. Lo primero de todo es que se trata, según explica Manovich, de
@@ -100,6 +104,8 @@ personajes en 3D que aparecen, algo fundamental para que cualquier videojuego se
 a los jugadores. La hibridación de la animación y sus técnicas junto con las de este mundo virtual  
 produce una experiencia conjunta que, sin ninguna duda, es 
 > "diferente a la experimentación de los elementos por separado" (Adell, 2014)[^13]
+
+<img src="https://live.staticflickr.com/1915/43934319005_4bf081a058_h.jpg" alt="Imagen del bioma de la jungla en Minecraft." width="600">[^13]
 
 Como conclusión, creo que la esencia de Minecraft y muchos otros juegos es la capacidad de generar a los  
 jugadores estas experiencias, sensaciones y momentos de diversión, los cuales no serían posibles sin la  
