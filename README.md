@@ -149,19 +149,19 @@ Material Creative Commons desarrollado bajo licencia **Creative Commons Attribut
 
 - **MINECRAFT - La hibridación en la generación, el diseño y la animación de mundos en 3D generados procedimentalmente**
 
-[^10]: Original: Mojang Studios; Vector: FugerCh100. 2022. *Gitweb screenshot* [imagen SVG]. Wikimedia Commons. Disponible en: <https://commons.wikimedia.org/wiki/File:Gitweb_screenshot.png>
+[^10]: Original: Mojang Studios; Vector: FugerCh100. 2022. *Minecraft logo* [imagen SVG]. Wikimedia Commons. Disponible en: <https://commons.wikimedia.org/wiki/File:Minecraft_logo.svg>
 
 [^11]: MANOVICH, Lev (2013). El software toma el mando. Barcelona: Editorial UOC.
 
 [^12]: MANOVICH, Lev (2013). El software toma el mando. Barcelona: Editorial UOC.
 
-[^13]: Qorg11. 2018. *Gitweb screenshot* [imagen PNG]. Wikimedia Commons. Disponible en: <https://commons.wikimedia.org/wiki/File:Gitweb_screenshot.png>
+[^13]: LOWENSOHN, Josh. 2010. *Minecraft world (in progress)* [imagen JPG]. Flickr. Disponible en: <https://www.flickr.com/photos/58907237@N00/5138837696>
 
 [^14]: MANOVICH, Lev (2013). El software toma el mando. Barcelona: Editorial UOC.
 
 [^15]: ADELL, Ferran. Remediación, multimedia e hibridación de los medios [en línea]. *Blog de la asignatura Fundamentos y evolución de la multimedia del Grado de Multimedia de la Universitat Oberta de Catalunya*, 16/04/2014. Disponible en: <http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/>
 
-[^16]: Qorg11. 2018. *Gitweb screenshot* [imagen PNG]. Wikimedia Commons. Disponible en: <https://commons.wikimedia.org/wiki/File:Gitweb_screenshot.png>
+[^16]: TAMMAS, Tamahikari. 2018. *MINECRAFT* [imagen PNG]. Flickr. Disponible en: <https://www.flickr.com/photos/tamahikari/43934319005/in/photolist-29WjSoH-2b6VTuf-22D5ndG-bKWhGn-2bacwnh-NXSk5o-2b6e7gD-9FLe7K-btEWHK-29GP4mY-qZEpjF-96HHXW-eCetZs-q1ucJT-eCeuzm-eCbhTi-eCbfsF-eCermh-eCetUW-eCbhon-eCbi8i-eCetoY-eCbf7X-eCetMd-eCbhrM-eCbgSt-eCbi2M-eCer9J-NVGFoG-2anzEYC-9FLeWH-2b6e8fn-NVGFHE-Q8aUQo-9FLuLc-21m2d5k-EygnWs-9uWuuT-2b6veSZ-NVGFzJ-9FLdsa-9FLueV-9FLaCB-9NYPdC-21m2d1c-Eygoc7-9GabV4-9FLcwH-qhKEa4-Q8aUBs>
 
 [^17]: AntVenom. *How Do Minecraft Worlds Generate?!* [vídeo en línea]. 2017. Disponible en: <https://youtu.be/FE5S2NeD7uU>
 
